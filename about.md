@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About PluralFusion
+title: About
 permalink: /about/
 ---
 

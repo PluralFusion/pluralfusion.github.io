@@ -1,10 +1,10 @@
 ---
 layout: page
-title: PluralFusion Application Privacy Policy
+title: Privacy
 permalink: /privacy/
 date: 19 October 2024
 ---
-
+# PluralFusion Application Privacy Policy
 
 ## Introduction
 
