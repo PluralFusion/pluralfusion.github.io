@@ -1,6 +1,7 @@
 title: PluralFusion
+title-image: pluralfusion-xsm.png
 author:
-  name: PluralFusion
+  # name: PluralFusion
   email: info@pluralfusion.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
