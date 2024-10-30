@@ -515,4 +515,4 @@ We will let You know via email and/or a prominent notice on Our Service, prior t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.  
 
 ## Contact Us  
-If you have any questions about this Privacy Policy, You can contact us by email: privacy@PluralFusion.com   
+If you have any questions about this Privacy Policy, You can contact us by email: [privacy@PluralFusion.com](mailto:privacy@pluralfusion.com)
