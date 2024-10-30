@@ -6,10 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  PluralFusion is a collaborative powerhouse born from years of shared vision and execution. 
-  Our team is a fusion of brilliant minds and seasoned doers, united by a passion for turning 
-  bold concepts into transformative solutions. Our focus is on creating innovative products 
-  and services that make a real impact.
+  Transforming bold ideas into impactful solutions.
 
 # Build settings
 
