@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "Where Big Ideas Become Reality"
 ---
 
