@@ -36,6 +36,9 @@ header_pages:
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
+  favicon:
+    path: /assets/favicon.ico
+    permalink: false
   # Minima skin selection.
   # Available skins are:
   # classic	           Default, light color scheme.
