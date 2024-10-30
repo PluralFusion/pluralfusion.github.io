@@ -142,8 +142,9 @@
 }
 
 .copyright {
-  @include relative-font-size(0.7);
+  @include relative-font-size(0.3);
   color: $brand-color;
+  margin-left: 0;
 }
 
 .footer-col-wrapper,
