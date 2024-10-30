@@ -141,6 +141,11 @@
   margin-left: 0;
 }
 
+.copyright {
+  @include relative-font-size(0.7);
+  color: $brand-color;
+}
+
 .footer-col-wrapper,
 .social-links {
   @include relative-font-size(0.9375);
