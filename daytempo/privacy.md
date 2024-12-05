@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy
-permalink: /privacy/
+permalink: /daytempo/privacy/
 ---
 # DayTempo Application Data Privacy Policy 
 Last updated: 5 December 2024
