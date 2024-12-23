@@ -1,15 +1,13 @@
 ---
 layout: page
 title: High Risk Personnel Employee Safety Monitoring Devices
-permalink: /safety/esmo
+permalink: /safety
 ---
+![ESMO Image](./esmo-banner-1_800.png){ width=100% }
+# ESMo: Employee Safety Monitoring Devices
 ## Simply Connected. Securely Protected
 
-![ESMO Image](./esmo-banner-1_800.png){ width=100%}
-
 ### Protecting Companies' Most Valuable Asset: Its People.
-
-# ESMo: Employee Safety Monitoring Devices
 Our safety wearables are industry specific devices that give essential workeres the ability to quickyl and easily request emergency assistance, monitor and warn of potential hazards like live voltage, and monitor for falls and other biometric indicators that a worker is in danger. 
 
 ## Privacy + Connectivity
