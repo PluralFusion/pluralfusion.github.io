@@ -1,7 +1,7 @@
 ---
 layout: page
-title: High Risk Personnel Employee Safety Monitoring Devices
-permalink: /safety
+title: Safety Monitoring Devices
+permalink: /safety/
 ---
 ![ESMO Image](./esmo-banner-1_800.png){ width=100% }
 # ESMo: Employee Safety Monitoring Devices
