@@ -5,7 +5,6 @@ permalink: /safety/
 ---
 ![ESMO Image](/assets/esmo-banner-1_800.png)
 # ESMo: Employee Safety Monitoring Devices
-## Simply Connected. Securely Protected
 
 ### Protecting Companies' Most Valuable Asset: Its People.
 Our safety wearables are industry specific devices that give essential workeres the ability to quickyl and easily request emergency assistance, monitor and warn of potential hazards like live voltage, and monitor for falls and other biometric indicators that a worker is in danger. 
