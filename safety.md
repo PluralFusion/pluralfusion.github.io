@@ -3,7 +3,7 @@ layout: page
 title: Safety Monitoring Devices
 permalink: /safety/
 ---
-![ESMO Image](/assets/esmo-banner-1_800.png){ width=100% }
+![ESMO Image](/assets/esmo-banner-1_800.png)
 # ESMo: Employee Safety Monitoring Devices
 ## Simply Connected. Securely Protected
 
