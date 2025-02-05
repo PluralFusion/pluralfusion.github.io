@@ -1,0 +1,128 @@
+@font-face {
+    font-family: 'Outfit-PF';
+    src: url('/fonts/Outfit-PF.woff2') format('woff2'),
+         url('/fonts/Outfit-PF.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('/fonts/Outfit-Regular.woff2') format('woff2'),
+         url('/fonts/Outfit-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    src: url('/fonts/NunitoSans.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nunito Sans Italic';
+    src: url('/fonts/NunitoSans-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'Borel';
+    src: url('/fonts/Borel-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+// // 
+// // Typography (attempt override of font in /bootstrap/_variables.scss)
+// //
+// // Font, line-height, and color for body text, headings, and more.
+
+// // scss-docs-start font-variables
+// // stylelint-disable value-keyword-case
+// $font-family-sans-serif:     "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+// $font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+// // stylelint-enable value-keyword-case
+// $font-family-base:            var(--#{$prefix}font-sans-serif) !default;
+// $font-family-code:            var(--#{$prefix}font-monospace) !default;
+
+
+html {
+    overflow-y: scroll;
+}
+
+.jumbotron {
+    padding: 4rem 2rem;
+    margin-bottom: 2rem;
+    background-color: var(--bs-light);
+    border-radius: .3rem;  
+}
+
+%callout-shared {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    background-color: var(--bd-callout-bg, var(--bs-gray-100));
+    border-left: 0.25rem solid var(--bd-callout-border, var(--bs-gray-300))
+}
+
+blockquote {
+    @extend %callout-shared;
+    text-align: center;
+}
+
+.callout {
+    @extend %callout-shared;
+}
+
+.callout-info {
+    --bd-callout-bg: rgba(var(--bs-info-rgb), .075);
+    --bd-callout-border: rgba(var(--bs-info-rgb), .5)
+}
+
+.callout-warning {
+    --bd-callout-bg: rgba(var(--bs-warning-rgb), .075);
+    --bd-callout-border: rgba(var(--bs-warning-rgb), .5)
+}
+
+.callout-danger {
+    --bd-callout-bg: rgba(var(--bs-danger-rgb), .075);
+    --bd-callout-border: rgba(var(--bs-danger-rgb), .5)
+}
+
+.feather {
+    width: 1em;
+    height: 1em;
+    stroke: currentColor;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    fill: none;
+}
+
+.feather-big {
+    width: 4em;
+    height: 4em;
+}
+
+a /*.feather*/ {
+    $twitter-blue: #55acee;
+    $github-black: #000;
+
+    .feather-twitter:hover {
+        stroke: $twitter-blue;
+        fill: $twitter-blue;
+    }
+
+    .feather-github:hover {
+        stroke: $github-black;
+        fill: $github-black;
+    }
+}
+
+h1 {
+    color: #030239;
+    font-family: "Poppins", "Helvetica Neue", Helvetica, Arial;
+}
