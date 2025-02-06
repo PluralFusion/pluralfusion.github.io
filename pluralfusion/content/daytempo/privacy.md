@@ -212,8 +212,7 @@ We may process Personal Data under the following conditions:
     
 * **Vital interests:** Processing Personal Data is necessary in order to protect Your vital interests or of another natural person.  
     
-* **Public interests:** Processing Personal Data is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Company  
-  .  
+* **Public interests:** Processing Personal Data is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Company.  
 * **Legitimate interests:** Processing Personal Data is necessary for the purposes of the legitimate interests pursued by the Company.
 
 In any case, the Company will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
