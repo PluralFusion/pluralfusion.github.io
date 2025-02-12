@@ -12,8 +12,24 @@ draft: false
 # ESMo: Employee Safety Monitoring Devices
 <br>
 
-### Protecting Companies' Most Valuable Asset: Its People.
-Our safety wearables are industry specific devices that give essential workeres the ability to quickyl and easily request emergency assistance, monitor and warn of potential hazards like live voltage, and monitor for falls and other biometric indicators that a worker is in danger. 
+### Protecting Your People: Smart, Safe & Private
+We help workers get home safely every day. Our connected platform combines smart wearables, mobile tools, and cloud services to spot dangers before accidents happen.
 
-### Privacy + Connectivity
-ESMo Devices are designed to keep employees safe while respecting their privacy. On-device algorhythms monitor the employees safety, saving battery usage while preserving user privacy. When connectivity is necessary, ESMo devices are designed to connect to networks even when access to traditional cellular networks are not available. 
+### What Sets Us Apart
+* **Instant Safety Alerts**: Wearables detect user movement anomalies, falls, high-voltage and other hazards in real-time
+* **Predictive Protection**: Device and service AI analyzes patterns to prevent accidents before they occur
+* **Field-Ready Communication**: One-tap emergency alerts and team coordination
+* **Safety Intelligence**: Rich insights help leaders build stronger safety programs
+* **Knowledge On-The-Go**: Safety protocols, operating procedures and expertise at workers' fingertips
+* **Built For Utilities**: Customized for your unique challenges and workflows
+
+### How We Work
+* We build solutions alongside utility teams, not for them
+* We innovate based on real field feedback
+* We integrate with your existing safety systems
+
+### Privacy First
+* Industry-leading encryption and security
+* Minimal data collection - just what's needed to keep workers safe
+* Full compliance with GDPR, CCPA, and HIPAA as required.
+

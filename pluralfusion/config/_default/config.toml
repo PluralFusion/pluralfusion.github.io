@@ -18,6 +18,7 @@ enableRobotsTXT = true
 enableEmoji = true
 #sectionPagesMenu = "main"
 googleAnalytics = "G-QSWW0WWEJJ"
+googleTag = "G-QSWW0WWEJJ"
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
