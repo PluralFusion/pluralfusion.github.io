@@ -2,7 +2,7 @@
 title: "Safety"
 subtitle: "ESMO: Employee Safety Monitoring & Operations"
 date: 2025-03-20
-draft: true
+draft: false
 ---
 
 <center>
