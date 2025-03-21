@@ -5,7 +5,7 @@
 # https://gohugo.io/templates/internal/#twitter-cards
 # https://schema.org/Thing
 # https://schema.org/Article
-description = "Transformation through Innovation"
+description = "Connected Health & Safety Intelligence<br/>for critical operations and everyday living"
 images = ['images/pf-infinity-diag.svg','images/pf-infinity-diag.png']
 mainMenuLogo = "images/pf-infinity-diag.svg"
 heroLogo = 'images/pf-infinity-diag.svg'
@@ -16,7 +16,7 @@ themeColor = "#fff"
 
 # Google Analytics
 googleAnalytics = "G-QSWW0WWEJJ"
-googleTag = "G-QSWW0WWEJJ"
+#googleTag = "G-QSWW0WWEJJ"
 
 # Alert
 alert = false
