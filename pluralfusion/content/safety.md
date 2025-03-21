@@ -27,7 +27,7 @@ We help workers get home safely every day. Our connected platform combines smart
 ### How We Work
 * We build solutions alongside utility teams, not for them
 * We innovate based on real field feedback
-* We integrate with your existing safety systems
+* We integrate with your existing safety and knowledge management systems
 
 ### Privacy First
 * Industry-leading encryption and security
